@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**dieulamvo/dieulamvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Computer Science at Karlsruhe Institute of Technology (KIT).
 
-Here are some ideas to get you started:
+Interested in software engineering, cloud computing, and performance engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a master's thesis on performance regression analysis.
+
+## Technologies
+
+- Java
+- C++
+- Python
+- Git
+- Linux
